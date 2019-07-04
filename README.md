@@ -14,6 +14,6 @@ NPM Dependencies:
 Usage
 The following commands run without user input:
 
-$ node liri.js spotify-this-song
-$ node liri.js movie-this
-$ node liri.js do-what-it-says
+1.  $ node liri.js spotify-this-song
+2.  $ node liri.js movie-this
+3.  $ node liri.js do-what-it-says
