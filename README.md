@@ -4,12 +4,9 @@ LIRI stands for Language Interpretation and Recognition Interface. LIRI bot is a
 
 1.  dotenv
 2.  node-spotify-api
-3.  request
-4.  fs
+3.  Axios for OMDB and Bands in Town APIs
+4.  Moment
 5.  API Integration
-6.  Spotify
-7.  OMDB
-8.  Bands in Town
 
 <h2>Usage</h2>
 The following commands run without user input:
