@@ -29,7 +29,7 @@ function start(){
         doRandom();
         break;
       default:
-        console.log(chalk.underline("\nCommands for LIRI:")+ "\n'concert-this'\n'spotify-this-song'\n'movie-this'\n'do-what-it-says'\n\n" + chalk.bgRed("Example input command: node liri movie-this mean girls."))
+        console.log("\n'concert-this'\n'spotify-this-song'\n'movie-this'\n'do-what-it-says'\n\n" + "Example input command: node liri movie-this mean girls.")
     }
 
 }
