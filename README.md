@@ -2,14 +2,14 @@ LIRI stands for Language Interpretation and Recognition Interface. LIRI bot is a
 
 NPM Dependencies:
 
-dotenv
-node-spotify-api
-request
-fs
-API Integration
-Spotify
-OMDB
-Bands in Town
+*dotenv
+*node-spotify-api
+*request
+*fs
+*API Integration
+*Spotify
+*OMDB
+*Bands in Town
 
 Usage
 The following commands run without user input:
