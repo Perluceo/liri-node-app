@@ -23,3 +23,6 @@ The following commands run without user input:
 2.  $ node liri.js spotify-this-song
 3.  $ node liri.js movie-this
 4.  $ node liri.js do-what-it-says
+
+<h2>Output with user input:</h2>
+<img src="assets/liriBot.png" alt="liriBot">
